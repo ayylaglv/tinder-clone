@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   name: {
     fontSize: 30,
-    color: 'green',
+    color: 'black',
     fontWeight: 'bold',
   },
   bio: {
